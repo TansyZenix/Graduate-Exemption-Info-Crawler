@@ -47,3 +47,7 @@ python spider.py
 - requests
 - pandas
 - openpyxl
+
+## 许可
+
+本项目采用 MIT License，详见 [LICENSE](LICENSE)。
